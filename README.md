@@ -1,4 +1,6 @@
-# level-up-tutorials-slack-theme
+# Level Up-Tutorials Slack Theme
+
+![Theme](1.png)
 
 Go To Room Name > Preferences > Sidebar Theme and past the following into the long input box.
 
